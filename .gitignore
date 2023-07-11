@@ -1,1 +1,5 @@
 myenv
+logs
+__pycache__
+*.txt
+*\src
